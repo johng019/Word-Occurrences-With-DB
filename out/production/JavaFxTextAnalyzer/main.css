@@ -1,0 +1,22 @@
+
+ .root{
+     -fx-background-color: rgb(204,255,255);
+ }
+
+ .button{
+      -fx-background-radius: 25px;
+      -fx-background-color: rgb(0,255,255);
+ }
+
+ .text-area  *.text{
+     -fx-text-alignment: center;
+ }
+
+ .link {
+     -fx-font-weight: bold;
+ }
+
+ .text-area{
+      -fx-background-color: LightCyan;
+ }
+

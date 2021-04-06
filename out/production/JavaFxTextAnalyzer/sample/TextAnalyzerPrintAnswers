@@ -1,0 +1,49 @@
+package sample;
+
+import javafx.event.ActionEvent;
+import javafx.event.EventHandler;
+import javafx.geometry.Insets;
+import javafx.geometry.Pos;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.layout.BorderPane;
+import javafx.scene.layout.HBox;
+import javafx.scene.layout.VBox;
+import javafx.stage.Stage;
+
+import java.io.IOException;
+import java.sql.SQLException;
+import java.util.*;
+
+import static sample.Controller.HandleButtonClick;
+import static sample.Controller.NextChallenge;
+
+
+public class TextAnalyzerPrintAnswers extends Thread {
+    private static final double WIDTH = 540;
+    private static final double HEIGHT = 400;
+
+    public static javafx.scene.control.Button print_btn;
+
+    public static int totalCount = 0;
+    public static double myScore = 0;
+
+    public static void display() {
+
+        //Set up window
+        Stage window = new Stage();
+        window.setTitle("GamePlay Match-ups");
+
+        BorderPane border = new BorderPane();
+        Scene scene = new Scene(border, WIDTH, HEIGHT);
+
+
+        border.getChildren().addAll(name_Label, name, character_Label, character, score_Label, score);
+
+        //Display the window
+        window.setScene(scene);
+        window.show();
+
+    }
+}

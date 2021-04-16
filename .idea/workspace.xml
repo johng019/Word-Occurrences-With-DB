@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/TextAnalyzer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/sample/ReadTheRavenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/sample/TopWordsUITest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFxTextAnalyzer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFxTextAnalyzer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaFxTextAnalyzer/sample/GameUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaFxTextAnalyzer/sample/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaFxTextAnalyzer/sample/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaFxTextAnalyzer/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaFxTextAnalyzer/sample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaFxTextAnalyzer/sample/ReadTheRaven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaFxTextAnalyzer/sample/ReadTheRaven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/GameUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/TopWordsUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/ReadTheRaven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/ReadTheRaven.java" afterDir="false" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +78,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -114,8 +97,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MySql/mysql-connector-java-8.0.23.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -330,6 +313,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -350,86 +334,5 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613834831516">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613834831516" />
-    <state x="677" y="362" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614424233227">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="677" y="362" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614424233227" />
-    <state x="709" y="356" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1614714329015">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="709" y="356" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614714329015" />
-    <state x="2685" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1615285697766">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2685" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615285697766" />
-    <state x="2638" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1614790816825">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2638" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614790816825" />
-    <state x="731" y="151" key="FileChooserDialogImpl" timestamp="1617734534152">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="731" y="151" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617734534152" />
-    <state x="2586" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614790814531" />
-    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1617734720437">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617734720437" />
-    <state width="1877" height="193" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616170437838" />
-    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1617734720437">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617734720437" />
-    <state width="1877" height="193" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616170437838" />
-    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1617734720437">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617734720437" />
-    <state width="1877" height="193" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616170437838" />
-    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1617734720437">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617734720437" />
-    <state width="1877" height="193" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616170437838" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1615290869884">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615290869884" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1615290869884">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615290869884" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1615290869884">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615290869884" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1615290869884">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615290869884" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1617734537092">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617734537092" />
-    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615051320661" />
-    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1617735321911">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617735321911" />
-    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616147249448" />
-    <state x="2584" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1615050447168">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2584" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615050447168" />
-    <state x="2651" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1615052599798">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2651" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615052599798" />
   </component>
 </project>

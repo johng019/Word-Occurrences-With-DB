@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="JavaFxTextAnalyzer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaFxTextAnalyzer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JavaFxTextAnalyzer.jar">
+        <element id="module-output" name="JavaFxTextAnalyzer" />
+      </element>
+      <element id="library" level="project" name="junit:junit:4.13.2" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/MySql/mysql-connector-java-8.0.23.jar" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
